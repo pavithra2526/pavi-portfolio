@@ -1,0 +1,104 @@
+*** Portfolio ***
+
+ --- Contents (Personal Portfolio) ---
+
+1. Aside Navbar
+
+    - logo
+
+      Nav       
+    - icon (fa fa-home) font Awesome Icon         Home
+    - icon (fa fa-user) font Awesome Icon         About
+    - icon (fa fa-briefcase) font Awesome Icon    Certificate
+    - icon (fa fa-envelope) font Awesome Icon     Blog
+    - icon (fa fa-comments) font Awesome Icon     Contact
+
+    - copyright text
+
+1. Home Section
+
+    - Photo
+    - Pavithra R
+    - I'm a Web Developer and a Engineer
+    
+      Social Links
+    - icon (fa fa-twitter) font Awesome Icon 
+    - icon (fa fa-facebook) font Awesome Icon 
+    - icon (fa fa-instagram) font Awesome Icon 
+    - icon (fa fa-linkedin) font Awesome Icon 
+
+2. About Me
+   
+   - About Me
+   - I'm Pavithra R and Web Developer and Engineer.
+   - Hi! My name is Pavithra R. I am a Web Developer and a Engineer.I am pursuing with CGPA 7.24(upto 5th semester) at Vel Tech Multi Tech Dr.RR and Dr.SR Engineering college.  
+     
+     Personal-info
+   - Birthday : 26 july 1999
+   - Age : 21
+   - Email : pavithraramesh2605@gmail.com
+   - Degree :BE/ECE
+   - Phone :+91 9344544491
+   - City : Chennai
+   - Freelance : Available
+
+     Button
+   - Downolad, Hire Me
+
+     Skills
+   - Javascript 76%
+   - C 90%
+   - Java 80%
+   - Bootstrap 60%
+   - HTML 80%
+
+     Education
+   
+   - 2017 - 2021
+   - Bachelor Degree
+   - Vel Tech Multi Tech Dr.RR and DR.SR Engineering College
+   -I am pursing Electronics and Communication Engineering with CGPA of 7.24
+
+   - 2016 - 2017
+   - HSC
+   - Velammal Matric Hr. Sec.School
+   - I have completed my schooling with 75.42%
+
+   - 2014- 2015
+   - SSLC
+   - Bhaktavatsalam Vidhyashram,CBSE
+   - I successfully completed my SSLC with CGPA 7.2
+
+  
+
+3. Certificate
+
+   - All, Workshop, StudyMonk , E-Certification
+
+
+4. Blog
+
+   - 13 jun 2020
+   - My Favourite Childhood Cartoon
+   - This was my first blog  about my favourite childhood cartoon which i  most love to watch.
+
+   - 13 jun 2020
+   - It's About Myself
+   - It's all about 20 yrears old princess.
+
+   - 27 jun 2020
+   - Film critic on Ford vs ferrari...
+   - This is my first film critics which i posted in linkdin. 
+
+5. Contact Me
+
+   - icon : fa fa-phone (font awesome icon)
+   - Call me On
+   - +91 9344544491
+
+   - icon : fa fa-envelope (font awesome icon)
+   - Email
+   - pavithraramesh2605@gmail.com
+
+     Form Field
+   - Name, Email, Subject, Message, Button (Send Message) 
